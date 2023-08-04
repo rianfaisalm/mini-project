@@ -1,0 +1,21 @@
+
+.card-product-button {
+    border: 1.5px solid #f6a973;
+    border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
+    color: #000032;
+    font-weight: 600;
+}
+
+.card-product-button:hover {
+    border: 1.5px solid #f6a973;
+}
+
+.card-title {
+    color: #1a1a1a;
+    font-size: 12px;
+    font-weight: 600;
+}
